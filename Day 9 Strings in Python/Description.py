@@ -141,6 +141,3 @@ str.endswith(suffix, start=0, end=len(string))
 
 str.expandtabs(tabsize=8)
 # Replaces tabs in the string with spaces.
-
-str.swapcase()
-# Swaps case for all characters in the string.
